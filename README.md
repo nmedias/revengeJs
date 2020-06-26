@@ -1,4 +1,4 @@
-# RevengeJs.js
+# RevengeJs
 
 ### Install
 
