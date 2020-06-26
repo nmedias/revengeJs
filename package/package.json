@@ -1,0 +1,13 @@
+{
+    "name": "revenge-js",
+    "version": "1.0.0",
+    "description": "What if your clients didn't pay?",
+    "module": "revengeJs/lib/revengeJs.js",
+    "browser": "revengeJs/revengeJs.umd.js",
+    "main": "revengeJs/lib/revengeJs.js",
+    "author": "Revenge.js Crew",
+    "license": "ISC",
+    "keywords": [
+      "revenge"
+    ]
+}
